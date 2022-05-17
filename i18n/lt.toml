@@ -1,0 +1,195 @@
+# Translations for Lithuanian
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === baseof ==
+[backToTop]
+other = "Atgal į viršų"
+
+[viewComments]
+other = "Žiūrėti komentarus"
+# === baseof ==
+
+# === Post ===
+[posts]
+other = "Straipsniai"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "Visi {{ .Some }}"
+
+[tag]
+other = "Tag'as"
+
+[tags]
+other = "Tag'ai"
+
+[category]
+other = "Kategorija"
+
+[categories]
+other = "Kategorijos"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "Daugiau"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Pasirinkti kalbą"
+
+[switchTheme]
+other = "Pakeisti stilių"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Sukurta naudojant {{ .Hugo }} | Stilius - {{ .Theme }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "lt"
+
+[valinePlaceholder]
+other = "Jūsų komentaras ..."
+
+[facebookLanguageCode]
+other = "lt_LT"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Paieška"
+
+[searchPlaceholder]
+other = "Ieškoti antraštėse arba turinyje ..."
+
+[clear]
+other = "Švaru"
+
+[cancel]
+other = "Atšaukti"
+
+[noResultsFound]
+other = "Rezultatų nerasta"
+
+[lunrLanguageCode]
+other = "en"
+
+[copyToClipboard]
+other = "Kopijuoti"
+
+[cookieconsentMessage]
+other = "Ši svetainė naudoja sausainius(slapukus)."
+
+[cookieconsentDismiss]
+other = "Supratau!"
+
+[cookieconsentLink]
+other = "Sužinoti daugiau"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Dalinimasis įjungtas"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Turinys"
+
+[publishedOnDate]
+other = "paskelbta {{ .Date }}"
+
+[includedInCategories]
+other = "įtrauktas į {{ .Categories }}"
+
+[wordCount]
+one = "vienas žodis"
+other = "{{ .Count }} žodžiai"
+
+[readingTime]
+one = "viena minutė"
+other = "{{ .Count }} minutės"
+
+[views]
+other = "peržiūros"
+
+[author]
+other = "Autorius"
+
+[updatedOnDate]
+other = "Atnaujinta {{ .Date }}"
+
+[readMarkdown]
+other = "Skaityti „Markdown“"
+
+[back]
+other = "Atgal"
+
+[home]
+other = "Pagrindinis"
+
+[readMore]
+other = "Skaityti daugiau"
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Puslapis nerastas"
+
+[pageNotFoundText]
+other = "Atleiskite, bet puslapis kurio ieškote neegzistuoja"
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "užrašai"
+
+[abstract]
+other = "Abstraktas"
+
+[info]
+other = "Informacija"
+
+[tip]
+other = "rekomendacija"
+
+[success]
+other = "Sėkmė"
+
+[question]
+other = "Klausimas"
+
+[warning]
+other = "Įspėjimas"
+
+[failure]
+other = "Nesėkmė"
+
+[danger]
+other = "Pavojus"
+
+[bug]
+other = "Vabalas"
+
+[example]
+other = "Pavyzdys"
+
+[quote]
+other = "Citata"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "NAUJAS"
+
+[changed]
+other = "PAKEISTAS"
+
+[deleted]
+other = "IŠTRINTAS"
+# === shortcodes/version.html ===
